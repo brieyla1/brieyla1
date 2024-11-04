@@ -6,7 +6,7 @@ Hi there! I'm **Lance**, Founder and Tech Lead of Warburg AI, based in Dubai, UA
 
 ## About Me
 
-As the Founder and CEO of Warburg AI, my mission is to revolutionize automated asset management through cutting-edge AI solutions. We started as "Thomas AI" in 2018 and became Warburg AI in 2023. We're a team of dreamers, thinkers, and relentless innovators challenging the financial industry's status quo. 🚀📈
+As the Founder and CEO of Warburg AI, my mission is to revolutionize automated asset management through cutting-edge AI solutions. We started as "Thomas AI" in 2017 and became Warburg AI in 2023. We're a team of dreamers, thinkers, and relentless innovators challenging the financial industry's status quo. 🚀📈
 
 ### Languages & Frameworks
 
