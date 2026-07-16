@@ -4,17 +4,21 @@ Founder & CTO at [WarburgAI](https://warburg.ai), building AI-native systems for
 
 I work at the intersection of deep reinforcement learning, quantitative research, market microstructure, and production-grade software.
 
-## What I’m building
+## Resume
 
-- **[WarburgAI](https://warburg.ai)**: autonomous trading research and infrastructure
-- **[Vertical](https://verticalprop.com)**: a crypto-native prop trading platform
+### Founder & CTO · [WarburgAI](https://warburg.ai)
 
-## Focus
+I lead the technical vision, research, and engineering behind AI-native systematic trading systems. My work spans quantitative research, deep reinforcement learning, execution and risk infrastructure, and the production systems required to operate it.
 
-`Deep RL` · `Systematic trading` · `Market microstructure` · `AI agents` · `Financial infrastructure`
+### Building · [Vertical](https://verticalprop.com)
 
-## Stack
+I help build a crypto-native prop trading platform, from its real-time trading infrastructure and product experience to the systems that support scale, reliability, and risk controls.
 
-`Python` · `Rust` · `TypeScript` · `Next.js` · `PostgreSQL / TimescaleDB` · `Docker`
+## Core strengths
+
+- Technical strategy and hands-on engineering leadership
+- AI and deep reinforcement learning applied to financial markets
+- Real-time, data-intensive trading systems
+- Taking complex products from research to production
 
 Most of my work lives in private repositories. If you’re building in trading, AI, or financial infrastructure, feel free to get in touch through the links above.
